@@ -16,7 +16,7 @@ madlib = f"Computer program is so {adj}! it makes me so excited all the time bec
 print(madlib)
 
 verb3 = input("verb 3: ")
-verb4 = input("adjective ")
+adj2 = input("adjective ")
 location = input("location: ")
 madlib_2 = f"I love to {verb3} because it makes me feel free. I think that tacos are {adj2}. I want to go to {location} because it is my next adventure."
 
